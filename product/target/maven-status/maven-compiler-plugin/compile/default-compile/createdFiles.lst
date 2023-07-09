@@ -1,0 +1,9 @@
+com\product\tecnico\product\ProductApplication.class
+com\product\tecnico\product\entidades\Product.class
+com\product\tecnico\product\exceptions\NotFoundException.class
+com\product\tecnico\product\servicio\ProductService.class
+com\product\tecnico\product\repositorio\ProductRepository.class
+com\product\tecnico\product\entidades\ProductClient.class
+com\product\tecnico\product\repositorio\RunnerCargaDataInicialDB.class
+com\product\tecnico\product\entidades\Product$ProductBuilder.class
+com\product\tecnico\product\controlador\ProductController.class
